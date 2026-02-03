@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banuka Wickramaarachchi</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.vercel.app?size=20&duration=4000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Mobie+and+%26+Web+Development;Full-Stack+Developer"
+    src="https://readme-typing-svg.vercel.app?size=20&duration=4000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Focused+on+Mobile+and+%26+Full-Stack+Development"
     alt="Typing SVG"
   />
 </p>
