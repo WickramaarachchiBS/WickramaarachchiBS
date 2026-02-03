@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Banuka Wickramaarachchi</h1>
-<h3 align="center">Software Engineering undergrad focused on Mobile & Web Development</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.vercel.app?size=20&duration=4000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Mobie+and+%26+Web+Development;Full-Stack+Developer"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wickramaarachchibs&label=Profile%20views&color=0e75b6&style=flat" alt="wickramaarachchibs" /> </p>
 
